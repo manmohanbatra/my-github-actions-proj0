@@ -1,4 +1,4 @@
-# Automating Tests & Sending Notifications to Slack with GitHub Actions by Colby Fayock
+# Automating Tests & Sending Notifications to Slack with GitHub Actions
 
 Demo for tutorial [How to Use Github Actions to Automate Tests and Slack Notifications](https://www.youtube.com/watch?v=1n-jHHNSoTw)
 
